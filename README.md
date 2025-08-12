@@ -7,3 +7,4 @@
 ### "git status" --> verifica a situação entre o repositório local e remoto
 ### "git commit -m "[Anotação]"" --> aplica/confirma qualquer atualização (arquivos adicionados com "git add" ou arquivos modificados já adicionados)
 ### "git push [repositório] [branch]" --> envia o arquivo para o Github
+Obs.: [] = necessário || {} = opcional
